@@ -1,7 +1,7 @@
 # Data-analysis-report-of-Tile-defects
 
 ## Overview
-The "Tile defects report", made for "Stile-HOH" aims to offer "Insights into "Defects arising frequence" in the green, bisque and finished tile. The report outlines which kinds of defects the Tile Quality suffered from, in the given time period. The report also reflects which defect contributed most to downgrade the quality of tile.
+The "Tile defects report", made for "Stiles-HOH" aims to offer "Insights into "Defects arising frequence" in the green, bisque and finished tile. The report outlines which kinds of defects the Tile Quality suffered from, in the given time period. The report also reflects which defect contributed most to downgrade the quality of tile.
 
 ## Key Features
 **Defects Ranking**: Clustered bar chart illustrates the ranking of defects based on different filters.
