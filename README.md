@@ -1,17 +1,17 @@
 # Data-analysis-report-of-Tile-defects
 
 ## Overview
-The "Tile defects report", made for "Stile-HOH" aims to offer "Wall tile behavior study" to understanding the Wall tile Warpage Behavior over the time. The report enables the production and marketing team to reduce the dealers complaints on the tile warpage behavior by sharing the recommendations with them based on this report.
+The "Tile defects report", made for "Stile-HOH" aims to offer "Insights into "Defects arising frequence" in the green, bisque and finished tile. The report outlines which kinds of defects the Tile Quality suffered from, in the given time period. The report also reflects which defect contributed most to downgrade the quality of tile.
 
 ## Key Features
-**Tile percentage visualization**: Pie charts depict the percentage of tiles across different criteria at various stages.
-**Bending deflection behavior**: Bar chart interpretes the bending deflection behavior over time.
-**Criteria based Tiles count Table:** The Matrix table reflects how much tiles fall under which criteria at different time intervals.
+**Defects Ranking**: Clustered bar chart illustrates the ranking of defects based on different filters.
+**Abnormality Percentage**: Pie chart shows the percentage of defects affecting the quality of tiles.
+**Defect Occurence Datewise** The clustered column chart depicts which abnormalities occured on each specific date based on applied filters.
 
 ## Dataset used:
-https://github.com/Alirazaar9397/Data-analysis-of-Ceramic-Tiles-Warpage-Behavior
+
 
 
 ## Prerequisites
-To use "Tile warpage behavior analysis report", ensure you have the "PowerBIDesktop software" installed.
+To use "Data-analysis-report-of-Tile-defects", ensure you have the "PowerBIDesktop software" installed.
 Software download link: [PowerBIDesktop]https://www.microsoft.com/en-us/download/details.aspx?id=58494
